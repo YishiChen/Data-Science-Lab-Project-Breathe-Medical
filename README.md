@@ -1,6 +1,11 @@
 # Data Science Lab Spring 2024
 
-This is a project co-developed with the company breathe to generate customizable medical scenarios for low-resource hospitals.
+This is a project co-developed with the company Breathe Medical to generate customizable medical training scenarios for low-resource hospitals using LLM's. Our interface is shown below.
+
+<img aling="center" width="1701" height="958" alt="dashboard-example" src="https://github.com/user-attachments/assets/4cec3612-dff5-48fd-ad77-c3e0eb55c8e9" />
+
+
+
 
 ## Get started
 

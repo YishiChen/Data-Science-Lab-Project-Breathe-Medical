@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ### 4. Set up environment file
 
-Duplicate the `.env.example` file, rename it to `.env` and add your OpenAI API key or Kari's (he can send it to you securely).
+Duplicate the `.env.example` file, rename it to `.env` and add your OpenAI API key.
 
 ### 5. Run scenario generator (Streamlit app)
 
